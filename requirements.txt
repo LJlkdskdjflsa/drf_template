@@ -1,0 +1,14 @@
+Django==3.1
+djangorestframework==3.12.4
+django-cors-headers==3.7.0
+drf-yasg==1.20.0
+drf-flex-fields==0.9.5
+django-filter==2.4.0
+django-safedelete==1.0.0
+djoser==2.1.0
+PyJWT==2.1.0
+djangorestframework_simplejwt==4.7.2
+social-auth-app-django==4.0.0
+social-auth-core==4.1.0
+python-decouple==3.4
+django-admin-rangefilter==0.8.1
